@@ -1,0 +1,9 @@
+path_data: /PATH/TO/DATA_DIR
+
+path_model: /PATH/TO/MODEL_DIR
+
+path_tb: /PATH/TO/TENSORBOARD_DIR
+
+corpus: msmarco-docs.tsv.sentences
+
+data_prefix: msmarco-doc
