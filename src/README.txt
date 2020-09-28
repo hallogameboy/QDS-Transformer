@@ -1,5 +1,4 @@
 README for QDS-Transformer Implementation
-EMNLP 2020 Submission ID: 3388
 Title: Long Document Ranking with Query-Directed Sparse Transformer
 
 ---
